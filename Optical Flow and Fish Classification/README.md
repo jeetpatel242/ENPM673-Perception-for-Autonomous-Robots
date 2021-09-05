@@ -1,9 +1,6 @@
 # ENPM673 Perception for Autonomous Robots
 ## Project-4 Optical Flow and Large scale fish classification
 
-## Overview
-
-
 ## Dependencies
 * Python3
 * OpenCV
